@@ -9,6 +9,7 @@ namespace Snake
     internal class Food
     {
         public Position foodPos = new Position();
+        
 
         Random rnd = new Random();
         Canvas canvas = new Canvas();

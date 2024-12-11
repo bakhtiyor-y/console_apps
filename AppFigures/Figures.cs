@@ -8,6 +8,7 @@ namespace Shakl
         {
             do
             {
+                
                 int[] flags = [0, 0, 0, 0];
 
                 ShowIntro();

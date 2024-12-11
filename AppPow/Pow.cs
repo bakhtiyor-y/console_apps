@@ -7,7 +7,6 @@ namespace ConsoleApps.AppPow
     {
         internal void CalculatePow()
         {
-            //bool again = true;
             do
             {
                 Console.Clear();

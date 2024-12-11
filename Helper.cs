@@ -10,6 +10,7 @@ namespace ConsoleApps
 {
     internal class Helper
     {
+        
         public static void DisplayMessage(string msg)
         { 
             if (msg == "title")

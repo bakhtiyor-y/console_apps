@@ -11,6 +11,7 @@ namespace ConsoleApps
         public static int ChooseMenu()
         {
             
+            
             Console.Clear();
             Console.OutputEncoding = Encoding.UTF8;
             Console.CursorVisible = false;
